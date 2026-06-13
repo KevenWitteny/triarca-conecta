@@ -18,9 +18,3 @@ Portal de gerenciamento documental corporativo.
 - Busca e filtros
 - Download de documentos
 - Controle administrativo
-
-## Screenshots
-
-![Triarca](screenshots/triarca.png)
-
-![Dashboard](screenshots/mockup-site.png)
