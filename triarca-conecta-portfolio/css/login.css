@@ -1,0 +1,8 @@
+* { box-sizing: border-box; }
+body { margin:0; min-height:100vh; display:grid; place-items:center; font-family:Arial,sans-serif; background:#eef6ff; }
+.login-card { width:min(420px,92vw); background:#fff; padding:32px; border-radius:16px; box-shadow:0 15px 40px rgba(0,0,0,.12); }
+h1 { margin:0; color:#002b5c; }
+p { color:#52627a; }
+input, button { width:100%; padding:13px; margin-top:12px; border-radius:8px; border:1px solid #cfd8e3; }
+button { background:#002b5c; color:#fff; font-weight:700; cursor:pointer; }
+.erro { background:#ffe8e8; color:#a40000; padding:10px; border-radius:8px; margin:12px 0; }
